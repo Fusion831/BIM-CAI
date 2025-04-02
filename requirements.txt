@@ -1,2 +1,5 @@
 ifcopenshell
 pandas
+streamlit
+three
+scikit-learn
