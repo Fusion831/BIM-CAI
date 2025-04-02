@@ -1,0 +1,13 @@
+1 Set up Python 3.9(done)
+2 Create and activate a virtual environment(done)
+3 Install dependencies from requirements txt(done)
+4 Fix ifcopenshell installation issue(done)
+5 Ensure IFC model is in the correct path models(done)
+6 Fix path issues in process_metadata py(done)
+
+TO DO:
+7 Extract building metadata process_metadata py
+8 Save metadata in data building_metadata csv
+9 Extract cost related metadata from IFC
+10 Implement cost estimation analyze_costs py
+11 Extract MEP clash data from IFC

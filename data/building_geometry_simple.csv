@@ -1,0 +1,19 @@
+GlobalId,ElementName,x,y,z,width,depth,height
+WALL-001,Exterior Wall North,0,10,0,30,0.3,4
+WALL-002,Exterior Wall East,30,0,0,0.3,10,4
+WALL-003,Exterior Wall South,0,-0.3,0,30,0.3,4  
+WALL-004,Exterior Wall West,-0.3,0,0,0.3,10,4 
+FLOOR-001,Ground Floor Slab,0,0,0,30,10,0.2
+BEAM-001,Main Beam 1,5,5,3.8,20,0.4,0.5 
+COLUMN-001,Column SW,2,2,0,0.4,0.4,4 
+COLUMN-002,Column SE,28,2,0,0.4,0.4,4 
+COLUMN-003,Column NE,28,8,0,0.4,0.4,4 
+COLUMN-004,Column NW,2,8,0,0.4,0.4,4 
+PIPE-001,Drain Pipe Vertical,28.1,2.1,0,0.1,0.1,4 
+DUCT-001,HVAC Supply Duct,10,4,3.5,10,0.8,0.4 
+DUCT-002,HVAC Return Duct Clash,10,5.2,3.9,10,0.8,0.4 
+WINDOW-001,Window North Wall,10,10,1,2,0.1,1.5 
+DOOR-001,Door East Wall,30,4,0,0.1,1,2.1 
+INVALID-GEOM,Element With Bad Data,5,abc,5,1,1,1 
+MISSING-VAL,Element With Missing Value,15,15,1,1,1 ,1
+ZERO-DIM,Element with Zero Dim,16,16,1,1,0,1 

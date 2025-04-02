@@ -1,0 +1,10 @@
+Element1,Element2,ClashType,Message
+WALL-001,WINDOW-001,Bounding Box Intersection,Bounding box overlap detected between elements WALL-001 and WINDOW-001.
+WALL-002,DOOR-001,Bounding Box Intersection,Bounding box overlap detected between elements WALL-002 and DOOR-001.
+FLOOR-001,COLUMN-001,Bounding Box Intersection,Bounding box overlap detected between elements FLOOR-001 and COLUMN-001.
+FLOOR-001,COLUMN-002,Bounding Box Intersection,Bounding box overlap detected between elements FLOOR-001 and COLUMN-002.
+FLOOR-001,COLUMN-003,Bounding Box Intersection,Bounding box overlap detected between elements FLOOR-001 and COLUMN-003.
+FLOOR-001,COLUMN-004,Bounding Box Intersection,Bounding box overlap detected between elements FLOOR-001 and COLUMN-004.
+FLOOR-001,PIPE-001,Bounding Box Intersection,Bounding box overlap detected between elements FLOOR-001 and PIPE-001.
+BEAM-001,DUCT-002,Bounding Box Intersection,Bounding box overlap detected between elements BEAM-001 and DUCT-002.
+COLUMN-002,PIPE-001,Bounding Box Intersection,Bounding box overlap detected between elements COLUMN-002 and PIPE-001.

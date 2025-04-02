@@ -1,0 +1,31 @@
+IfcType,Material,Unit,UnitCost
+IfcWall,Generic,m,90                 
+IfcSlab,Generic,m2,35                
+IfcWindow,Generic,Item,300             
+IfcDoor,Generic,Item,200               
+IfcPipeSegment,Generic,m,20            
+IfcDuctSegment,Generic,m,30            
+IfcFlowTerminal,Generic,Item,150         
+IfcBeam,Generic,m,60                 
+IfcColumn,Generic,m,70               
+IfcDoor,01 Hout - hardhout,Item,350       
+IfcWall,01 plaatmateriaal - multiplex,m,15  
+IfcSlab,02 Beton gewapend - ihw VLOER,m2,65 
+IfcWall,02 Beton gewapend - ihw,m,240       
+IfcSlab,02 Beton gewapend - prefab VLOER,m2,75 
+IfcBeam,02 Beton gewapend - prefab,m,90     
+IfcSlab,02 Beton ongewapend C,m2,55         
+IfcWall,03 Metselwerk - cellenbeton,m,35     
+IfcWall,03 Metselwerk - kalkzandsteen C,m,40 
+IfcWall,03 mw-baksteen - bruin (liggend),m,50 
+IfcRoof,04 Zink,m2,120                      
+IfcCovering,12 Keramisch - vloertegel,m2,40  
+IfcCovering,12 Schoonloopmat,Item,100       
+IfcSlab,24 Cementdekvloer 70mm,m2,20        
+IfcSlab,24 Cementdekvloer 90mm,m2,25        
+IfcWall,99 Isolatie - EPS,m,8            
+IfcWall,99 Isolatie - Glaswol 170mm,m,12   
+IfcWall,99 Lichte scheidingswand - gipsblokken,m,30 
+IfcWall,99 Lichte scheidingswand - hydro,m,33      
+IfcWall,99 Lichte scheidingswand - normaal,m,28     
+IfcWall,99 Lucht frame,m,0                 
