@@ -38,15 +38,12 @@ These instructions assume you have Python installed. We recommend using a virtua
     pip install -r requirements.txt
     ```
 
-    (Make sure you have a `requirements.txt` file listing all the necessary Python packages.  Create one using `pip freeze > requirements.txt` *after* you've installed all the packages you need.)
-
 4.  **Run the Application:**
 
     ```bash
     python main.py  # Or whatever the main script is called
     ```
 
-    (Replace `main.py` with the name of your main Python script.)
 
 5. **Access the Dashboard:**
 
