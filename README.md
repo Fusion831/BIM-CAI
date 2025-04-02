@@ -10,6 +10,7 @@ This project is a Building Information Modeling (BIM) tool that integrates Cost 
 *   **Clash Detection:**  Highlights potential clashes or conflicts within the model.
 
 ## How to Run the Code
+#Make sure to use Python3.12.0 for the code and activation of environment in venv as ifcopenshell isn't compatbile with the latest
 
 These instructions assume you have Python installed. We recommend using a virtual environment.
 
